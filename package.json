@@ -1,27 +1,27 @@
 {
-	"name": "mirage",
-	"displayName": "Mirage",
-	"description": "A Mirage blue theme with pastel tones",
-	"version": "0.0.1",
-	"publisher": "tristanremy",
-	"engines": {
-		"vscode": "^1.18.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Mirage",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Mirage-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "da1d0f98-4e87-49f4-85f6-d9bcec4e78f1",
-		"publisherDisplayName": "tristanremy",
-		"publisherId": "3c8c3888-6e64-4691-b5c1-392540b48d9b"
-	}
+    "name": "mirage",
+    "displayName": "Mirage",
+    "description": "A Mirage blue theme with pastel tones",
+    "version": "0.0.2",
+    "publisher": "tristanremy",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mirage",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mirage-color-theme.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "da1d0f98-4e87-49f4-85f6-d9bcec4e78f1",
+        "publisherDisplayName": "tristanremy",
+        "publisherId": "3c8c3888-6e64-4691-b5c1-392540b48d9b"
+    }
 }
