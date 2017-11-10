@@ -2,7 +2,7 @@
     "name": "mirage",
     "displayName": "Mirage",
     "description": "A Mirage blue theme with pastel tones",
-    "version": "0.0.5",
+    "version": "0.2.1",
     "publisher": "tristanremy",
     "engines": {
         "vscode": "^1.18.0"
@@ -23,6 +23,10 @@
         "type": "git",
         "url": "https://github.com/tristanremy/mirage.git"
     },
+    "bugs": {
+        "url": "https://github.com/tristanremy/mirage/issues"
+    },
+    "icon": "assets/icon.png",
     "__metadata": {
         "id": "da1d0f98-4e87-49f4-85f6-d9bcec4e78f1",
         "publisherDisplayName": "tristanremy",
