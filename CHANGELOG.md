@@ -3,6 +3,9 @@ All notable changes to the "mirage" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.2]
+- CSS classes and ids aren't `"fontStyle": "bold"` anymore. [Issue #11](https://github.com/tristanremy/mirage/issues/11)
+
 ## [0.3.1]
 - Fixed package.json to add "High-contrast" version
 

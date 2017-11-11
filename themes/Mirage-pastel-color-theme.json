@@ -746,7 +746,6 @@
 					"scope": "entity.other.attribute-name.id",
 					"settings": {
 							"foreground": "#8FA8CC",
-							"fontStyle": "bold"
 					}
 			},
 			{
@@ -754,7 +753,6 @@
 					"scope": "entity.other.attribute-name.class.css",
 					"settings": {
 							"foreground": "#CCAA99",
-							"fontStyle": "bold"
 					}
 			},
 			{
