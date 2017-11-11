@@ -3,6 +3,9 @@ All notable changes to the "mirage" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.1]
+- Fixed package.json to add "High-contrast" version
+
 ## [0.3.0]
 - Added "pastel" and "high-contrast" versions (feedbacks welcome)
 

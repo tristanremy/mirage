@@ -2,7 +2,7 @@
     "name": "mirage",
     "displayName": "Mirage",
     "description": "A Mirage blue theme with pastel tones",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "publisher": "tristanremy",
     "engines": {
         "vscode": "^1.18.0"
@@ -18,9 +18,14 @@
                 "path": "./themes/Mirage-color-theme.json"
             },
             {
-                "label": "Mirage Pastel",
+                "label": "Mirage (Pastel)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Mirage-pastel-color-theme.json"
+            },
+            {
+                "label": "Mirage (High-contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mirage-high-contrast-color-theme.json"
             }
         ]
     },
