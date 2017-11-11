@@ -745,14 +745,14 @@
 					"name": "Attribute IDs",
 					"scope": "entity.other.attribute-name.id",
 					"settings": {
-							"foreground": "#7FB5FF",
+							"foreground": "#7FB5FF"
 					}
 			},
 			{
 					"name": "Attribute class",
 					"scope": "entity.other.attribute-name.class.css",
 					"settings": {
-							"foreground": "#FFB38C",
+							"foreground": "#FFB38C"
 					}
 			},
 			{
