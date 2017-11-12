@@ -3,6 +3,9 @@ All notable changes to the "mirage" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.4]
+- Add contrasting `titleBar.activeForeground`
+
 ## [0.3.3]
 - Quick fix on themes (forgoten `,`)
 
