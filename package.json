@@ -2,7 +2,7 @@
     "name": "mirage",
     "displayName": "Mirage",
     "description": "A Mirage blue theme with pastel tones",
-    "version": "0.3.5",
+    "version": "0.3.6",
     "publisher": "tristanremy",
     "engines": {
         "vscode": "^1.18.0"

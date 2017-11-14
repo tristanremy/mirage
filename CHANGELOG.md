@@ -3,6 +3,9 @@ All notable changes to the "mirage" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.6]
+- Fixed `editorMarkerNavigation.background` color
+
 ## [0.3.5]
 - Corrected some selection/highlight background colors
 - Fine-tuned tab titles and window title (macos with custom titleBar) colors
