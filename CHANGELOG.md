@@ -3,6 +3,9 @@ All notable changes to the "mirage" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.7]
+- Made scrollbar transparent to be able to view error line marks.
+
 ## [0.3.6]
 - Fixed `editorMarkerNavigation.background` color
 
