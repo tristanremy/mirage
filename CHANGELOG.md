@@ -3,6 +3,9 @@ All notable changes to the "mirage" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.9]
+- Added `gitDecoration` colors ([more info](https://code.visualstudio.com/updates/v1_18#_git-status-in-file-explorer))
+
 ## [0.3.8]
 - Made scrollbar transparent on `pastel`and `high-contrast`versions
 - Sorted `colors` in `pastel`and `high-contrast` versions
