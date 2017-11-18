@@ -2,7 +2,7 @@
     "name": "mirage",
     "displayName": "Mirage",
     "description": "A Mirage blue theme with pastel tones",
-    "version": "0.0.4",
+    "version": "0.3.10",
     "publisher": "tristanremy",
     "engines": {
         "vscode": "^1.18.0"
@@ -16,6 +16,16 @@
                 "label": "Mirage",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Mirage-color-theme.json"
+            },
+            {
+                "label": "Mirage (Pastel)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mirage-pastel-color-theme.json"
+            },
+            {
+                "label": "Mirage (High-contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mirage-high-contrast-color-theme.json"
             }
         ]
     },
@@ -23,6 +33,10 @@
         "type": "git",
         "url": "https://github.com/tristanremy/mirage.git"
     },
+    "bugs": {
+        "url": "https://github.com/tristanremy/mirage/issues"
+    },
+    "icon": "assets/icon@2x.png",
     "__metadata": {
         "id": "da1d0f98-4e87-49f4-85f6-d9bcec4e78f1",
         "publisherDisplayName": "tristanremy",
