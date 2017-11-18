@@ -10,7 +10,7 @@
 			"button.background": "#223043",
 			"debugToolBar.background": "#21252b",
 			"diffEditor.insertedTextBackground":"#98c37920",
-			"diffEditor.removedTextBackground":"#CCA3A320"
+			"diffEditor.removedTextBackground":"#CCA3A320",
 			"dropdown.background": "#0D1C2B",
 			"dropdown.border": "#0D1C2B",
 			"editor.background": "#1B2738",
@@ -84,7 +84,7 @@
 			"titleBar.activeForeground": "#C8D5E4",
 			"titleBar.inactiveBackground": "#273951",
 			"titleBar.inactiveForeground": "#5E82B3",
-			"widget.shadow": "#1B273800",
+			"widget.shadow": "#1B273800"
 	},
 	"tokenColors": [
 			{
