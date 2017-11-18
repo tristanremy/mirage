@@ -3,6 +3,9 @@ All notable changes to the "mirage" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.3.10]
+- modified activityBar icons color to make them pop a bit more
+
 ## [0.3.9]
 - Added `gitDecoration` colors ([more info](https://code.visualstudio.com/updates/v1_18#_git-status-in-file-explorer))
 
