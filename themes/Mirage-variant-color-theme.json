@@ -9,7 +9,7 @@
 			"badge.background": "#7fb5ff",
 			"button.background": "#162B40",
 			"debugToolBar.background": "#162B40",
-			"diffEditor.insertedTextBackground":"#89d78a77",
+			"diffEditor.insertedTextBackground":"#85cc9577",
 			"diffEditor.removedTextBackground":"#ff999977",
 			"dropdown.background": "#162B40",
 			"dropdown.border": "#223a54",
@@ -24,22 +24,22 @@
 			"editorBracketMatch.border": "#FFFFFF00",
 			"editorCursor.foreground": "#FFFFFF",
 			"editorError.foreground": "#ff9999",
-			"editorWarning.foreground": "#89d78a",
+			"editorWarning.foreground": "#ffb38c",
 			"editorInfo.foreground": "#7fb5ff",
 			"editorGroup.background": "#162B40",
 			"editorGroup.border": "#1c3650",
 			"editorGroupHeader.tabsBackground": "#162B40",
-			"editorGutter.addedBackground":"#85cc96aa",
-			"editorGutter.deletedBackground":"#ff9999aa",
-			"editorGutter.modifiedBackground":"#7fb5ffaa",
+			"editorGutter.addedBackground":"#85cc9633",
+			"editorGutter.deletedBackground":"#ff999933",
+			"editorGutter.modifiedBackground":"#7fb5ff33",
 			"editorHoverWidget.background": "#0e1d2c",
 			"editorHoverWidget.border": "#1c3650",
 			"editorIndentGuide.background": "#223e5b",
 			"editorLineNumber.foreground": "#2b4664",
 			"editorMarkerNavigation.background": "#4D6390",
-			"editorOverviewRuler.addedForeground": "#85cc96aa",
+			"editorOverviewRuler.addedForeground": "#85cc9644",
 			"editorOverviewRuler.border": "#1c3650",
-			"editorOverviewRuler.deletedForeground": "#ff9999aa",
+			"editorOverviewRuler.deletedForeground": "#ff999944",
 			"editorOverviewRuler.errorForeground": "#ff5050",
 			"editorOverviewRuler.findMatchForeground": "#ffffff",
 			"editorOverviewRuler.infoForeground": "#7fb5ffaa",
@@ -57,7 +57,7 @@
 			"extensionButton.prominentHoverBackground": "#5386cc",
 			"gitDecoration.modifiedResourceForeground": "#7fb5ff",
 			"gitDecoration.deletedResourceForeground": "#ff9999",
-			"gitDecoration.untrackedResourceForeground": "#89d78a",
+			"gitDecoration.untrackedResourceForeground": "#85cc95",
 			"gitDecoration.ignoredResourceForeground": "#ffffff44",
 			"gitDecoration.conflictingResourceForeground": "#ff5c5c",
 			"input.background": "#0e1d2c",
@@ -103,7 +103,7 @@
 					"scope":
 							"punctuation.definition.string.begin,punctuation.definition.string.end",
 					"settings": {
-							"foreground": "#89d78a"
+							"foreground": "#57a669"
 					}
 			},
 			{
@@ -147,7 +147,7 @@
 					"name": "inserted.diff",
 					"scope": "markup.inserted.diff",
 					"settings": {
-							"foreground": "#89d78a50"
+							"foreground": "#85cc9550"
 					}
 			},
 			{
@@ -501,7 +501,7 @@
 					"name": "python placeholder reset to normal string",
 					"scope": "constant.character.format.placeholder.other.python",
 					"settings": {
-							"foreground": "#89d78a"
+							"foreground": "#85cc95"
 					}
 			},
 			{
@@ -693,14 +693,21 @@
 					"name": "Punctuation definition tag",
 					"scope": "punctuation.definition.tag",
 					"settings": {
-							"foreground": "#95c3f180"
+							"foreground": "#ff97a366"
 					}
 			},
+			{
+				"name": "Tag decorator js",
+				"scope": "js.decorator.tag",
+				"settings": {
+						"foreground": "#95c3f180"
+				}
+		},
 			{
 					"name": "Strings, Inherited Class",
 					"scope": "string, entity.other.inherited-class",
 					"settings": {
-							"foreground": "#89d78a"
+							"foreground": "#85cc95"
 					}
 			},
 			{
@@ -878,7 +885,7 @@
 					"name": "[VSCODE-CUSTOM] Markdown Inline Raw",
 					"scope": "markup.inline.raw.markdown",
 					"settings": {
-							"foreground": "#89d78a"
+							"foreground": "#85cc95"
 					}
 			},
 			{
@@ -1013,7 +1020,7 @@
 					"scope":
 							"source.json meta.structure.dictionary.json > value.json > string.quoted.json,source.json meta.structure.array.json > value.json > string.quoted.json,source.json meta.structure.dictionary.json > value.json > string.quoted.json > punctuation,source.json meta.structure.array.json > value.json > string.quoted.json > punctuation",
 					"settings": {
-							"foreground": "#89d78a"
+							"foreground": "#85cc95"
 					}
 			},
 			{
