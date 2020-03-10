@@ -110,7 +110,7 @@
     "terminal.ansiWhite": "#FFFFFF",
     "terminal.ansiYellow": "#fff67f",
     "terminal.foreground": "#FFFFFF",
-    "terminal.selectionBackground": "#223e5b",
+    "terminal.selectionBackground": "#5f95e0aa",
     "terminalCursor.background": "#5f95e0",
     "terminalCursor.foreground": "#7fb5ff",
     "titleBar.activeBackground": "#0b1827",
